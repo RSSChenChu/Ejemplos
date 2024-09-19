@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo07",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo07\\main.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo07\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo06",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo06\\main.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo06\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo05",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo05\\main.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo05\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo04",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo04\\main.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo04\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo08\\main.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo08",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo08\\main.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo08\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo03",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo03\\main.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo03\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo02",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo02\\main.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo02\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo01",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo01\\main.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Ejemplos\\Ejemplo01\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
